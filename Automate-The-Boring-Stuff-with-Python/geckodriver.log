@@ -1,0 +1,71 @@
+1646011138251	geckodriver	INFO	Listening on 127.0.0.1:55179
+1646011141269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55180" "-no-remote" "-profile" "C:\\Users\\Stefanie\\AppData\\Local\\Temp\\rust_mozprofile1gYx1R"
+1646011141444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Stefanie\\AppData\\Local\\Temp\\rust_mozprofile1gYx1R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55180/devtools/browser/aacabdde-fbc9-4ece-b302-8909acd9b5bd
+1646011142756	Marionette	INFO	Listening on port 55192
+1646011142804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1646011192285	Marionette	INFO	Stopped listening on port 55192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+
+DevTools listening on ws://localhost:55267/devtools/browser/510aa0f5-7994-4683-aa75-094fa96b1c8a
+1646011187673	Marionette	INFO	Listening on port 55280
+1646011188114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1646012434262	geckodriver	INFO	Listening on 127.0.0.1:56709
+1646012437296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56710" "-no-remote" "-profile" "C:\\Users\\Stefanie\\AppData\\Local\\Temp\\rust_mozprofileaMMQhY"
+1646012437477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Stefanie\\AppData\\Local\\Temp\\rust_mozprofileaMMQhY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56710/devtools/browser/649fc8be-137f-4e69-b041-86f1236b86fe
+1646012438873	Marionette	INFO	Listening on port 56722
+1646012439339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 5739 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/thetradedeskv275874568748/moatad.js#moatClientLevel1=9e7uzvx&moatClientLevel2=5z7ry2o&moatClientLevel3=ctl98t4&moatClientSlicer1=www.speedtest.net&zMoatImpressionId=553708df-e1a6-4042-b42f-00a8e51dba5d&zMoatCachebuster=553115&zMoatPartnerID=nbx4h71&zMoatViewType=0&zMoatCreative=h2zszzru&zMoatDealID=1839133&zMoatSupplyVendor=google&zMoatSite=www.speedtest.net&zMoatPublisherID=pub-3121563445182145&moatClientLevel4=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fpie%2F%3Fpie%3D20%26vet%3DVIEWABILITY_EVENT_TYPE%26rtb%3DdD0xJmlpZD01NTM3MDhkZi1lMWE2LTQwNDItYjQyZi0wMGE4ZTUxZGJhNWQmY3JpZD1oMnpzenpydSZ3cD0lJVdJTk5JTkdfUFJJQ0UlJSZhaWQ9MSZ3cGM9VVNEJnNmZT0xNDUzYTgxYiZwdWlkPSZwaWQ9bmJ4NGg3MSZhZz1jdGw5OHQ0JmFkdj05ZTd1enZ4JmJwPTIyJmNmPTI4Nzg1NDImZnE9MCZ0ZF9zPXd3dy5zcGVlZHRlc3QubmV0JnJjYXRzPSZtY2F0PSZtc3RlPXd3dy5zcGVlZHRlc3QubmV0Jm1mbGQ9MiZtc3NpPSZtZnNpPSZ1aG93PTE3JmFnc2E9JnJnej05MTM2MCZzdmJ0dGQ9MSZkdD1QQyZvc2Y9V2luZG93cyZvcz1XaW5kb3dzMTAmYnI9RmlyZWZveCZybGFuZ3M9ZW4mbWxhbmc9JnN2cGlkPXB1Yi0zMTIxNTYzNDQ1MTgyMTQ1JmRpZD0xODM5MTMzJnJjeHQ9T3RoZXImbGF0PTM0LjE5NjY4NiZsb249LTExOC45MTgzNTAmdG1wYz0xOS43NiZkYWlkPSZ2cD0wJm9zaT0mb3N2PSZtZGw9RmlyZWZveCUyMC0lMjBXaW5kb3dzJmM9Q2cxVmJtbDBaV1FnVTNSaGRHVnpFZ3BEWVd4cFptOXlibWxoR2dNNE1ETWlEVlJvYjNWellXNWtJRTloYTNNNEFWQUJXQUY0QUlBQkFJZ0JBWkFCQVEuLiZkdXI9Q2tnS0lXTm9ZWEpuWlMxaGJHeE5iMkYwVm1sbGQyRmlhV3hwZEhsVWNtRmphMmx1WnlJakNLWF9fX19fX19fX193RVNEbTF2WVhRdGNtVndiM0owYVc1bktnWUlvSTBHR0F3LiZjcnJlbHI9JnBjbT0xJnNhaWQ9WWh3b0d3QUNRcThLcDRzWFd3ZlhKZyUzRCUzRCZhdWN0PTMmdXNfcHJpdmFjeT0xLS0tTWlzc2luZyZpbT0xJm1jPWJkOTdhZTRmLWEwYmItNDdmZi04NmZmLWM3N2JhZmYyY2Y0MSZzdj1nb29nbGU., line 249: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 4893 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 5541 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 6542 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 6680 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 6134 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646012450371	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1646012562678	geckodriver	INFO	Listening on 127.0.0.1:57177
+1646012565678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57178" "-no-remote" "-profile" "C:\\Users\\Stefanie\\AppData\\Local\\Temp\\rust_mozprofileurI7fg"
+1646012565868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Stefanie\\AppData\\Local\\Temp\\rust_mozprofileurI7fg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57178/devtools/browser/d0e85230-6e30-44f1-b217-adef37737616
+1646012567299	Marionette	INFO	Listening on port 57191
+1646012567717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 4366 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 554 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 3045 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 2068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 4778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 5343 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.speedtest.net/result/12825088733 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 4549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/thetradedeskv275874568748/moatad.js#moatClientLevel1=9e7uzvx&moatClientLevel2=5z7ry2o&moatClientLevel3=z48w3md&moatClientSlicer1=www.speedtest.net&zMoatImpressionId=252ed5ec-44ad-47f9-8b7a-ef2a8697b9ca&zMoatCachebuster=898285&zMoatPartnerID=nbx4h71&zMoatViewType=0&zMoatCreative=yoinko61&zMoatDealID=&zMoatSupplyVendor=federatedmedia&zMoatSite=www.speedtest.net&zMoatPublisherID=235106&moatClientLevel4=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fpie%2F%3Fpie%3D20%26vet%3DVIEWABILITY_EVENT_TYPE%26rtb%3DdD0xJmlpZD0yNTJlZDVlYy00NGFkLTQ3ZjktOGI3YS1lZjJhODY5N2I5Y2EmY3JpZD15b2lua282MSZ3cD0ke0FVQ1RJT05fUFJJQ0V9JmFpZD0xJndwYz1VU0Qmc2ZlPTE0NTNhOGJmJnB1aWQ9JnBpZD1uYng0aDcxJmFnPXo0OHczbWQmYWR2PTllN3V6dngmYnA9MjAmY2Y9Mjg3ODU0MiZmcT0wJnRkX3M9d3d3LnNwZWVkdGVzdC5uZXQmcmNhdHM9N3NwJm1jYXQ9Jm1zdGU9d3d3LnNwZWVkdGVzdC5uZXQmbWZsZD00Jm1zc2k9Jm1mc2k9JnVob3c9MTcmYWdzYT0mcmd6PTkxMzYwJnN2YnR0ZD0xJmR0PVBDJm9zZj1XaW5kb3dzJm9zPVdpbmRvd3MxMCZicj1GaXJlZm94JnJsYW5ncz1lbiZtbGFuZz0mc3ZwaWQ9MjM1MTA2JmRpZD0mcmN4dD1PdGhlciZsYXQ9MzQuMjEwNjAyJmxvbj0tMTE4Ljg3MTU5NyZ0bXBjPTE5Ljc2JmRhaWQ9JnZwPTAmb3NpPSZvc3Y9JmJmZmk9NDEmbWRsPUZpcmVmb3glMjAtJTIwV2luZG93cyZjPUNnMVZibWwwWldRZ1UzUmhkR1Z6RWdwRFlXeHBabTl5Ym1saEdnTTRNRE1pRFZSb2IzVnpZVzVrSUU5aGEzTTRBVkFCZ0FFQWlBRUJrQUVCJmR1cj1Da2dLSVdOb1lYSm5aUzFoYkd4TmIyRjBWbWxsZDJGaWFXeHBkSGxVY21GamEybHVaeUlqQ0tYX19fX19fX19fX3dFU0RtMXZZWFF0Y21Wd2IzSjBhVzVuS2dZSW9JMEdHQXcuJmNycmVscj0maXBsPS82NjkyL3NwZWVkdGVzdC5uZXQvcmVzdWx0c19zdG5leHRfbGVhZGVyYm9hcmQmZnBhPTc5OSZwY209MyZzYWlkPWQyYWY3NzU2LTdjZGQtNDJhNy1hNDRiLWE0MTEyNWEwZGRiYyZpY3Q9VW5rbm93biZhdWN0PTEmdXNfcHJpdmFjeT0xLS0tTWlzc2luZyZpbT0xJm1jPWJkOTdhZTRmLWEwYmItNDdmZi04NmZmLWM3N2JhZmYyY2Y0MSZzdj1mZWRlcmF0ZWRtZWRpYQ.., line 249: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 3198 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.864.436&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.864.436&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.864.436&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/containertag?zoneId=832863&containerId=3&v=4&tid=a_832863_03990d94941641f9b12a3af8a91f9e56&loc=https://www.speedtest.net/result/12825088733&gdpr_flag=0, line 1: TypeError: sovrn.auction.fireTags is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.864.436&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.864.436&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.864.436&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.864.436&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.864.436&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript warning: https://www.microsoft.com/onerfstatics/sfwwcusprod/_h/676f8deb/onerf.onestore/externalscripts/store/at_v4.js, line 98: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fpt.microsoft.com/tags?session_id=fe7e19f5-cca6-4756-84d3-ebdcc7042227, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
