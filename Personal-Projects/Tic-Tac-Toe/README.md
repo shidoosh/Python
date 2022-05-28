@@ -11,8 +11,11 @@ It assigned the keys in the dictionary to the corresponding the position on the 
 And the values in the dictionary would represent what character occupied that space: X, O, or empty 
 
 Our dictionary structure represented the following board: 
+
  top-L | top-M | top-R 
+ 
 \-----------------------
  mid-L | mid-M | mid-R 
+ 
 \-----------------------
  low-L | low-M | low-R 
