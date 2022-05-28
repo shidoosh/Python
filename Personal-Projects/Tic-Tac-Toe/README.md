@@ -19,7 +19,8 @@ When the game ends, the Player is prompted to play again or quit.
 
 
 ## Instructions 
-To play the game, run this tic_tac_toe.py file 
+To play the game, run this tic_tac_toe.py file with Python installed
+
 ``` >> python3 tic_tac_toe.py ```
 
 
