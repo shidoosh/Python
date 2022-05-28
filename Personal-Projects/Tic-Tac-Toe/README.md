@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 ## Summary 
-This Python script simulates Tic-Tac-Toe. 
+This Python script simulates the Tic-Tac-Toe game. 
 
 The Player plays against the CPU.
 
