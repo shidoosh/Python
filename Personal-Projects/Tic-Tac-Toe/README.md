@@ -2,10 +2,15 @@
 
 ## Summary 
 This Python script simulates Tic-Tac-Toe. 
+
 The Player plays against the CPU.
+
 The Player can select which character they want to use, X or O, and the CPU will be assigned the character the Player does not choose. 
+
 The Player can select the difficulty of the CPU. 
+
 The Board is updated after each turn and is outputted to the user. 
+
 The game ends in the following two ways: 
 * When the Player or CPU achieves three in a row and a winner is declared
 * If all the positions on the board are filled with neither the Player nor the CPU achieving three in a row, it is ruled as a Cat's Game 
