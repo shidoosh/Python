@@ -9,6 +9,7 @@ The Board is updated after each turn and is outputted to the user.
 The game ends in the following two ways: 
 * When the Player or CPU achieves three in a row and a winner is declared
 * If all the positions on the board are filled with neither the Player nor the CPU achieving three in a row, it is ruled as a Cat's Game 
+
 When the game ends, the Player is prompted to play again or quit. 
 
 
